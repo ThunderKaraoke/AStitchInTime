@@ -7,6 +7,9 @@
 // Inspired By: Hitomezashi Stitch Patterns - Numberphile
 // https://www.youtube.com/watch?v=JbfhzlMk2eY
 
+
+
+
 // VARIABLES TO ALTER
 let grid = 10; // cell dimensions of table
 let frm = 300; // framerate
